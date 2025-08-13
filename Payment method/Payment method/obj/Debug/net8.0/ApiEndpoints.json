@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Payment_method.Controllers.CheckoutController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/checkout/create-order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Payment_method.Controllers.CheckoutController\u002BCheckoutRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Payment_method.Models.Order",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Payment_method.Controllers.PaymentsController",
+    "Method": "Verify",
+    "RelativePath": "api/payments/razorpay/verify",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "Payment_method.Controllers.PaymentsController\u002BRazorpayVerifyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Payment_method.Controllers.PaymentsController",
+    "Method": "CreateSession",
+    "RelativePath": "api/payments/session",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "body",
+        "Type": "Payment_method.Controllers.PaymentsController\u002BPaymentSessionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Payment_method.Controllers.PaymentsController",
+    "Method": "Webhook",
+    "RelativePath": "api/payments/webhook/razorpay",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "X-Razorpay-Signature",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
