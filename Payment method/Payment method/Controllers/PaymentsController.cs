@@ -1,13 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Payment_method.Services;
+using System.Security.Cryptography;
 using System.Text;
 using System.Text.Json;
-using System.Security.Cryptography;
-using Payment_method.Services;
 
 namespace Payment_method.Controllers;
 
 [ApiController]
 [Route("api/payments")]
+[Authorize]
 public class PaymentsController : ControllerBase
 {
     private readonly IPaymentService _svc;
@@ -45,6 +47,7 @@ public class PaymentsController : ControllerBase
     }
 
     // ===== Webhook (source of truth) =====
+    [AllowAnonymous]
     [HttpPost("webhook/razorpay")]
     public async Task<IActionResult> Webhook(
         [FromHeader(Name = "X-Razorpay-Signature")] string signature,
