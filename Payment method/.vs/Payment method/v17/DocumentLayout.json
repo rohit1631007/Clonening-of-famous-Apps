@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\certi\\source\\repos\\Payment method\\",
+  "WorkspaceRootPath": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\payment method\\payment method\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\clonening-of-famous-apps\\payment method\\payment method\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|solutionrelative:payment method\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\payment method\\payment method\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\clonening-of-famous-apps\\payment method\\payment method\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|solutionrelative:payment method\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\payment method\\payment method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\clonening-of-famous-apps\\payment method\\payment method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|solutionrelative:payment method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\payment method\\payment method\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\clonening-of-famous-apps\\payment method\\payment method\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|solutionrelative:payment method\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\payment method\\payment method\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\clonening-of-famous-apps\\payment method\\payment method\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|solutionrelative:payment method\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\payment method\\payment method\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\clonening-of-famous-apps\\payment method\\payment method\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|solutionrelative:payment method\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\payment method\\payment method\\data\\payment_methoddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\clonening-of-famous-apps\\payment method\\payment method\\data\\payment_methoddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|solutionrelative:payment method\\data\\payment_methoddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\payment method\\payment method\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\clonening-of-famous-apps\\payment method\\payment method\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|solutionrelative:payment method\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\payment method\\payment method\\payment method.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\clonening-of-famous-apps\\payment method\\payment method\\payment method.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|solutionrelative:payment method\\payment method.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\payment method\\payment method\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\clonening-of-famous-apps\\payment method\\payment method\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|solutionrelative:payment method\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\payment method\\payment method\\migrations\\20250811184234_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|c:\\users\\certi\\source\\repos\\clonening-of-famous-apps\\payment method\\payment method\\migrations\\20250811184234_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F421E6A-B4F5-4C38-9978-52896EE69BD9}|Payment method\\Payment method.csproj|solutionrelative:payment method\\migrations\\20250811184234_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -76,7 +76,7 @@
         },
         {
           "DockedHeight": 21,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -88,25 +88,21 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{7615f12e-922a-545a-b9a0-3305b93d08c0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PaymentsController.cs",
-              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Controllers\\PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Controllers\\PaymentsController.cs",
               "RelativeDocumentMoniker": "Payment method\\Controllers\\PaymentsController.cs",
-              "ToolTip": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Controllers\\PaymentsController.cs",
               "RelativeToolTip": "Payment method\\Controllers\\PaymentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T19:37:24.653Z",
               "EditorCaption": ""
@@ -115,9 +111,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CheckoutController.cs",
-              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Controllers\\CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Controllers\\CheckoutController.cs",
               "RelativeDocumentMoniker": "Payment method\\Controllers\\CheckoutController.cs",
-              "ToolTip": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Controllers\\CheckoutController.cs",
               "RelativeToolTip": "Payment method\\Controllers\\CheckoutController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,9 +123,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Services\\PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Services\\PaymentService.cs",
               "RelativeDocumentMoniker": "Payment method\\Services\\PaymentService.cs",
-              "ToolTip": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Services\\PaymentService.cs",
               "RelativeToolTip": "Payment method\\Services\\PaymentService.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,9 +135,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IPaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Services\\IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Services\\IPaymentService.cs",
               "RelativeDocumentMoniker": "Payment method\\Services\\IPaymentService.cs",
-              "ToolTip": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Services\\IPaymentService.cs",
               "RelativeToolTip": "Payment method\\Services\\IPaymentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,9 +147,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Program.cs",
               "RelativeDocumentMoniker": "Payment method\\Program.cs",
-              "ToolTip": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Program.cs",
+              "ToolTip": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Program.cs",
               "RelativeToolTip": "Payment method\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,9 +159,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "20250811184234_Init.cs",
-              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Migrations\\20250811184234_Init.cs",
+              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Migrations\\20250811184234_Init.cs",
               "RelativeDocumentMoniker": "Payment method\\Migrations\\20250811184234_Init.cs",
-              "ToolTip": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Migrations\\20250811184234_Init.cs",
+              "ToolTip": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Migrations\\20250811184234_Init.cs",
               "RelativeToolTip": "Payment method\\Migrations\\20250811184234_Init.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,9 +171,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\appsettings.json",
               "RelativeDocumentMoniker": "Payment method\\appsettings.json",
-              "ToolTip": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\appsettings.json",
+              "ToolTip": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\appsettings.json",
               "RelativeToolTip": "Payment method\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -187,9 +183,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Payment_methodDb.cs",
-              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Data\\Payment_methodDb.cs",
+              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Data\\Payment_methodDb.cs",
               "RelativeDocumentMoniker": "Payment method\\Data\\Payment_methodDb.cs",
-              "ToolTip": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Data\\Payment_methodDb.cs",
+              "ToolTip": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Data\\Payment_methodDb.cs",
               "RelativeToolTip": "Payment method\\Data\\Payment_methodDb.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,9 +195,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Payment method.csproj",
-              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Payment method.csproj",
+              "DocumentMoniker": "C:\\Users\\certi\\Source\\Repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Payment method.csproj",
               "RelativeDocumentMoniker": "Payment method\\Payment method.csproj",
-              "ToolTip": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Payment method.csproj",
+              "ToolTip": "C:\\Users\\certi\\Source\\Repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Payment method.csproj",
               "RelativeToolTip": "Payment method\\Payment method.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -211,9 +207,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Models\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Payment method\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Models\\Order.cs",
               "RelativeToolTip": "Payment method\\Models\\Order.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,13 +219,17 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Models\\Payment.cs",
+              "DocumentMoniker": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Payment method\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\certi\\source\\repos\\Payment method\\Payment method\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\certi\\source\\repos\\Clonening-of-famous-Apps\\Payment method\\Payment method\\Models\\Payment.cs",
               "RelativeToolTip": "Payment method\\Models\\Payment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T19:00:13.938Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
